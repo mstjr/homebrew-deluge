@@ -10,5 +10,5 @@ Then, to install `deluge` from this tap, run:
 
 ```bash
 brew tap mstjr/deluge
-brew install deluge
+brew install mstjr/deluge/deluge
 ```
