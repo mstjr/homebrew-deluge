@@ -4,7 +4,9 @@ This is the official Homebrew tap for [deluge](https://github.com/mstjr/deluge).
 
 ## Installation
 
-To install `deluge` from this tap, run:
+If not already installed, install homebrew from [https://brew.sh/](https://brew.sh/)
+
+Then, to install `deluge` from this tap, run:
 
 ```bash
 brew tap mstjr/deluge
